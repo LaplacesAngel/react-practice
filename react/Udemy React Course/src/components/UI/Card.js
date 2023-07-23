@@ -7,5 +7,5 @@ export default function Card(props) {
   return <div className={classes}>{props.children}</div>;
 }
 
-//children is a reserved nam will be the conent of the opening and
+//children is a reserved name will be the conent of the opening and
 //closing tags of the custom content

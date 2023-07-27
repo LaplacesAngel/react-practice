@@ -1,5 +1,4 @@
 import Expenses from "./components/Expenses/Expenses";
-import ExpenseForm from "./components/NewExpense/ExpenseForm";
 import NewExpense from "./components/NewExpense/NewExpense";
 
 function App() {

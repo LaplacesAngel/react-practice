@@ -43,10 +43,10 @@ export default function ExpenseForm() {
       date: new Date(enteredDate),
     };
 
+    console.log(expenseData);
     setEnteredAmount("");
     setEnteredDate("");
     setEnteredTitle("");
-    console.log(expenseData);
   };
 
   return (
